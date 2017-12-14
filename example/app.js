@@ -1,1 +1,1 @@
-// Example app project: https://github.com/appcelerator-developer-relations/drag-n-drop
+// Example app project: https://github.com/appcelerator-developer-relations/dragdrop
