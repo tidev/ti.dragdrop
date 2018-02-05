@@ -2,7 +2,7 @@
 Use iOS 11 drag and drop interactions in Appcelerator Titanium.
 
 ## Requirements
-- [x] Ti SDK 7.0.0.GA
+- [x] Ti SDK 7.0.0+
 - [x] iOS 11
 
 ## Getting started
@@ -11,7 +11,7 @@ Example app project available here: https://github.com/appcelerator-developer-re
 Add the module to your Titanium app project Tiapp.xml file:
 ```
 <modules>
-	<module version="0.1">ti.dragdrop</module>
+	<module>ti.dragdrop</module>
 </modules>
 ```
 Import the module in your controller:
