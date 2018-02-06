@@ -6,8 +6,8 @@
 
 #import "TiModule.h"
 
-@interface TiDragdropModule : TiModule <UIDragInteractionDelegate, UIDropInteractionDelegate>
-{
+@interface TiDragdropModule : TiModule <UIDragInteractionDelegate, UIDropInteractionDelegate> {
+  UIView *_dropInteractionView;
 }
 
 - (void)setDropView:(id)value;
