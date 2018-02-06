@@ -15,11 +15,11 @@ Add the module to your Titanium app project Tiapp.xml file:
 </modules>
 ```
 Import the module in your controller:
-```
-var DragDrop = require('ti.dragdrop');
 ```js
-Enabled drop interaction on target View or Window and drag interaction on View:
+var DragDrop = require('ti.dragdrop');
 ```
+Enabled drop interaction on target View or Window and drag interaction on View:
+```js
 // Enable drop interaction on window
 DragDrop.setDropView($.window);
 
