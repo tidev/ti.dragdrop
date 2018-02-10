@@ -1,7 +1,9 @@
 # Ti.DragDrop
 Use iOS 11 drag and drop interactions in Appcelerator Titanium.
 
-<img src="example.gif" alt="Drag and Drop example" />
+<img src="example.gif" width="400" alt="Drag and Drop example" /> <img src="example2.gif" width="400" alt="Drag and Drop example" />
+
+Thanks [@prashantsaini1](https://github.com/prashantsaini1) for the videos!
 
 ## Requirements
 - [x] Ti SDK 7.0.0+
